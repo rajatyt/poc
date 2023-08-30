@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Poc</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello Online Transaction fragment</string>
+    <string name="my_purchases">My Purchases</string>
+    <string name="store_transactions">Store Transactions</string>
+    <string name="online_transactions">Online Transactions</string>
+    <string name="transaction_id_000234568812">Transaction ID: 000234568812</string>
+</resources>
